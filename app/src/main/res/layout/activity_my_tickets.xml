@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:screenOrientation="portrait"
+    android:padding="16dp"
+    android:background="#C5C1C1"
+    tools:context=".MyTicketsActivity">
+
+    <TextView
+        android:id="@+id/titleOfCity"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:paddingTop="3dp"
+        android:text="@string/jegyekhint"
+        android:textSize="25sp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tableLayout">
+
+    </TableLayout>
+
+    <Button
+        android:id="@+id/BtnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="150dp"
+        android:backgroundTint="#FF5722"
+        android:onClick="backpage"
+        android:text="@string/back"
+        />
+
+</LinearLayout>

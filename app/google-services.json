@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782236837163",
+    "project_id": "holnaputazom",
+    "storage_bucket": "holnaputazom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782236837163:android:8c055afd25352368b4916e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAxt-1UmC8tHi7Mrk6w5qDN5Hi5ZR8o3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

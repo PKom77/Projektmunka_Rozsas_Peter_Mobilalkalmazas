@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Holnap utazom</string>
+    <string name="name">Felhasználónév</string>
+    <string name="pwd">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="email">E-mail cím</string>
+    <string name="varos">Alapértelmezett város</string>
+    <string name="pwdagaon">Jelszó újra</string>
+    <string name="back">Vissza</string>
+    <string name="jegyvasarol">Jegyvásárlás</string>
+    <string name="erkezo">Érkező állomás</string>
+    <string name="udvozlo">Üdvözlünk a HolnapUtazom! buszjegyfoglaló alkalmazásban!</string>
+    <string name="indulo">Kiinduló állomás</string>
+    <string name="jegyszama">Jegyek száma:</string>
+    <string name="kereses">Keresés</string>
+    <string name="jegyekhint">Jegyek</string>
+    <string name="profilom">Profilom</string>
+    <string name="kilepes">Kilépés</string>
+    <string name="jegyeim">Jegyeim</string>
+    <string name="kijelentkezes">Kijelentkezés</string>
+    <string name="one">1</string>
+    <string name="szoveg">szoveg</string>
+    <string name="ido">Indulás időpontja\n</string>
+    <string name="bavalt">Beváltás</string>
+    <string name="torol">Fiók törlése</string>
+    <string name="modify">Módosítás</string>
+    <string name="felismer">Hang</string>
+
+    <string-array name="hungarian_cities">
+        <item>Budapest</item>
+        <item>Békéscsaba</item>
+        <item>Cegléd</item>
+        <item>Dunaújváros</item>
+        <item>Eger</item>
+        <item>Győr</item>
+        <item>Kaposvár</item>
+        <item>Kecskemét</item>
+        <item>Komárom</item>
+        <item>Miskolc</item>
+        <item>Nagykanizsa</item>
+        <item>Nyíregyháza</item>
+        <item>Pécs</item>
+        <item>Siófok</item>
+        <item>Sopron</item>
+        <item>Szeged</item>
+        <item>Székesfehérvár</item>
+        <item>Szolnok</item>
+        <item>Szombathely</item>
+        <item>Tatabánya</item>
+        <item>Zalaegerszeg</item>
+    </string-array>
+</resources>
